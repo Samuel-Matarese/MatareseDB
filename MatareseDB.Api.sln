@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatareseDB.Api", "MatareseDB.Api\MatareseDB.Api.csproj", "{78366677-E61F-4276-80C6-9A17B65BB154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatareseDB.Application", "MatareseDB.Application\MatareseDB.Application.csproj", "{B6D9F2BC-A204-40E8-B0CB-23787D1F801A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatareseDB.Domain", "MatareseDB.Domain\MatareseDB.Domain.csproj", "{B56D23E3-16D1-4FA4-AD1B-E56DAA8CFB28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatareseDB.Infrastructure", "MatareseDB.Infrastructure\MatareseDB.Infrastructure.csproj", "{CBF57250-FB25-4471-9A33-9ABAC004312A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78366677-E61F-4276-80C6-9A17B65BB154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78366677-E61F-4276-80C6-9A17B65BB154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78366677-E61F-4276-80C6-9A17B65BB154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78366677-E61F-4276-80C6-9A17B65BB154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D9F2BC-A204-40E8-B0CB-23787D1F801A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D9F2BC-A204-40E8-B0CB-23787D1F801A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D9F2BC-A204-40E8-B0CB-23787D1F801A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D9F2BC-A204-40E8-B0CB-23787D1F801A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56D23E3-16D1-4FA4-AD1B-E56DAA8CFB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56D23E3-16D1-4FA4-AD1B-E56DAA8CFB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56D23E3-16D1-4FA4-AD1B-E56DAA8CFB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56D23E3-16D1-4FA4-AD1B-E56DAA8CFB28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF57250-FB25-4471-9A33-9ABAC004312A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF57250-FB25-4471-9A33-9ABAC004312A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF57250-FB25-4471-9A33-9ABAC004312A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF57250-FB25-4471-9A33-9ABAC004312A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
